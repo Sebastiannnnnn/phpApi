@@ -1,4 +1,4 @@
-# phpApi made with flight - An extensible micro-framework for PHP
+# phpApi
 
 Uses flight - An extensible micro-framework for PHP
 
